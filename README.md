@@ -23,7 +23,7 @@ This is a project for ophthalmic Surgery Scene Medical Image Reconstruction, imp
 + **Accelerate model rendering speed** and reduce the time and cost of 3D model construction. Existing 3D rendering speeds are generally slow, so the project plans to optimize the rendering models for 3D reconstruction to improve rendering speed. This is the key issue the project aims to address.
 
 # Contributors
-+ [Bingwen Dong]()
++ [Bingwen Dong](https://github.com/SheepDoctor)
 + [Gan Lau](https://github.com/GanLiuuuu)
-+ [Haotian Ding]()
++ [Haotian Ding](https://github.com/SustechSKY)
   
