@@ -1,10 +1,8 @@
 # OphthNeRF
 
-This is 
+This is a project for ophthalmic Surgery Scene Medical Image Reconstruction, implemented in Python.
 
-[*[Read the detailed project background(中文)]*]()
-
-
+[*[Read the detailed project background(中文)]*](/documents/申报书.pdf)
 
 # Preview
 
@@ -12,7 +10,7 @@ This is
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="" width = "800">
+    <img src="/imgs/demo.png" width = "800">
   </div>
 </div>
 
